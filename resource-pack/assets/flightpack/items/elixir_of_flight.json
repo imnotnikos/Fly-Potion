@@ -1,0 +1,6 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "flightpack:item/elixir_of_flight"
+  }
+}
