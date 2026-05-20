@@ -1,0 +1,4 @@
+name: FlightPotions
+version: 1.0.0
+main: com.imNikos.flightpotions.FlightPotionPlugin
+api-version: '1.21'
