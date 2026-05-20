@@ -4,6 +4,19 @@
 **Elixir of Flight** is a premium, survival-integrated plugin that introduces a balanced, immersive way to achieve temporary creative-style flight. Designed for servers that want to reward exploration and end-game progression, this plugin provides players with the ability to traverse the world from above without granting permanent operator permissions or disruptive bypass commands.
 
 **DOWNLOAD THE RESOURCE PACK FOR THE PLUGIN TO FUNCTION PROPERLY!**
+***
+### Plugin made by imNikos.
+ 
+  
+Follow my socials:
+
+https://www.instagram.com/imnikos_/
+
+https://www.youtube.com/@imnikoss
+
+https://discord.gg/9xJgzNqEaJ
+
+***
 
 ## Key Features
 
