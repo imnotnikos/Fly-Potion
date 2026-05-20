@@ -64,10 +64,5 @@ resource-pack-sha1=YOUR_SHA1_HASH_HERE
 require-resource-pack=true
 
 ```
----
-
-*Developed by Nikos for high-performance Paper/Spigot servers.*
-
-
 
 * Save the file and **restart your server**.
