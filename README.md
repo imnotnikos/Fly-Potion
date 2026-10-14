@@ -1,5 +1,7 @@
+<p align="center"><img src="assets/social-preview.png" alt="Fly Potion banner" width="100%"></p>
+
 # Fly Potion | Elixir of Flight 
-![Image of the elixir of flight](https://cdn.modrinth.com/data/cached_images/1dea107e71460f38f67a988ff3fbdc8fbe93b8cd.png)
+<img src="assets/icon.png" width="250" height="250" alt="Fly Potion icon" />
 
 **Elixir of Flight** is a premium, survival-integrated plugin that introduces a balanced, immersive way to achieve temporary creative-style flight. Designed for servers that want to reward exploration and end-game progression, this plugin provides players with the ability to traverse the world from above without granting permanent operator permissions or disruptive bypass commands.
 
