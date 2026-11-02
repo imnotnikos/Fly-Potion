@@ -83,7 +83,7 @@ public class FlightItems {
         awkwardPotion.setItemMeta(awkwardMeta);
 
         // 1. Awkward Potion + Dried Ghast = 3 Min Flight
-        RecipeChoice awkwardChoice = new RecipeChoice.ExactChoice(awkwardPotion);
+        RecipeChoice awkwardChoice = RecipeChoice.exactChoice(awkwardPotion);
         RecipeChoice driedGhastChoice = new RecipeChoice.MaterialChoice(Material.DRIED_GHAST); 
         
         NamespacedKey mix3Key = new NamespacedKey(plugin, "mix_flight_3");
@@ -91,7 +91,7 @@ public class FlightItems {
         Bukkit.getPotionBrewer().addPotionMix(flight3Mix);
 
         // 2. 3 Min Flight + Redstone = 8 Min Flight
-        RecipeChoice flight3Choice = new RecipeChoice.ExactChoice(FLIGHT_POTION_3);
+        RecipeChoice flight3Choice = RecipeChoice.exactChoice(FLIGHT_POTION_3);
         RecipeChoice redstoneChoice = new RecipeChoice.MaterialChoice(Material.REDSTONE);
         
         NamespacedKey mix8Key = new NamespacedKey(plugin, "mix_flight_8");

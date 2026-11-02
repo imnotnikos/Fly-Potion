@@ -46,6 +46,11 @@ The **Elixir of Flight** has a very simple brewing recipe. Using an awkward poti
 ![Potion of flight being brewed](https://cdn.modrinth.com/data/cached_images/182f1168bbd432cb60c185092d29f8c1dc0f3c03.png)
 ![Potion of flight being brewed to 8 mins](https://cdn.modrinth.com/data/cached_images/38a80fb581e7039cd63ca6d81f6a49a393cf7da0.png)
 
+## Requirements
+
+* **v1.1.0+:** Paper **26.2 or 26.3**, running on Java 25. Use the `FlightPack.zip` from the same release.
+* **v1.0.0:** Paper 1.21.x, running on Java 21.
+
 ## Download & Installation
 
 ### 1. Install the Plugin
